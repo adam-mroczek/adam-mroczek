@@ -110,9 +110,8 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 - <a href="https://github.com/profkingUtica/ELK-Stack/">ELK Stack</a>
 
 - <a href="https://github.com/profkingUtica/ELK-Stack">SOC Automation Project</a>
-
-- <a href="https://github.com/profkingUtica/ELK-Stack">teest2</a>## Hi there 👋
-- <a href="[https://github.com/adam-mroczek/Project1](https://github.com/adam-mroczek/forktest)">copy of project1</a>
+- <a href="https://github.com/adam-mroczek/forktest">video</a>
+- 
 <!--
 **adam-mroczek/adam-mroczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
